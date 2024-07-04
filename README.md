@@ -4,13 +4,26 @@
 I am a 3rd-year Computer Science student at the University of Alberta, pursuing an honors bachelor's degree. With a passion for building robust applications, I am deeply immersed in the dynamic worlds of Machine Learning and Software Development. My journey is fueled by a relentless curiosity and a drive to innovate, aiming to contribute meaningfully to the tech landscape.
 
 ## 🚀 My Course Experiences:
-- CMPUT 174 - Introduction to the Foundations of Computation I -  A course on intro to Python
-- CMPUT 175 - Introduction to the Foundations of Computation II - Continuation of 174 where we get into data structures and algorithms with Python
-- CMPUT 201 - Practical Programming Methodology - A course on C with a slight introduction on C++
-- CMPUT 204 - Algorithms I - A course on algorithms where we design and analyse algorithms ranging from graphs, sorting, trees, MST, Greedy, Dynamic and more
-- CMPUT 291 - Introduction to File and Database Management - Designing ER Diagrams; SQL; MongoDB; storage architecture; physical organization of data; access methods for relational data.
-- CMPUT 301 - Introduction to Software Engineering - Build an event organizing full-stack android app for 4 months with a group of 6 while learning about design/state patterns, UML, Testing, MVC
-- CMPUT 267 - Basics of Machine Learning - This course introduces fundamental statistical, mathematical, and computational concepts in data analysis using Julia. It provides a solid foundation in the mathematics of machine learning, focusing on univariate models to simplify mathematics and emphasize underlying concepts such as data summarization, model estimation, generalization, and performance evaluation.
+- **CMPUT 174 - Introduction to the Foundations of Computation I**
+  - An introductory course on Python programming.
+
+- **CMPUT 175 - Introduction to the Foundations of Computation II**
+  - Continuation of CMPUT 174, focusing on data structures and algorithms using Python.
+
+- **CMPUT 201 - Practical Programming Methodology**
+  - A course on programming in C with an introduction to C++.
+
+- **CMPUT 204 - Algorithms I**
+  - Designing and analyzing algorithms, including graphs, sorting, trees, MST, greedy algorithms, and dynamic programming.
+
+- **CMPUT 291 - Introduction to File and Database Management**
+  - Topics include ER diagrams, SQL, MongoDB, storage architecture, data organization, and relational data access methods.
+
+- **CMPUT 301 - Introduction to Software Engineering**
+  - Developed a full-stack Android app for event organization over four months in a team of six, learning about design/state patterns, UML, testing, and MVC architecture.
+
+- **CMPUT 267 - Basics of Machine Learning**
+  - Introduction to fundamental statistical, mathematical, and computational concepts in data analysis using Julia. Focus on univariate models, data summarization, model estimation, generalization, and performance evaluation.
 
 
 
