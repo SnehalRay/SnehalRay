@@ -5,25 +5,18 @@ I am a 3rd-year Computer Science student at the University of Alberta, pursuing 
 
 ## 🚀 My Course Experiences:
 - **CMPUT 174 - Introduction to the Foundations of Computation I**
-  - An introductory course on Python programming.
 
 - **CMPUT 175 - Introduction to the Foundations of Computation II**
-  - Continuation of CMPUT 174, focusing on data structures and algorithms using Python.
 
 - **CMPUT 201 - Practical Programming Methodology**
-  - A course on programming in C with an introduction to C++.
 
 - **CMPUT 204 - Algorithms I**
-  - Designing and analyzing algorithms, including graphs, sorting, trees, MST, greedy algorithms, and dynamic programming.
 
 - **CMPUT 291 - Introduction to File and Database Management**
-  - Topics include ER diagrams, SQL, MongoDB, storage architecture, data organization, and relational data access methods.
 
 - **CMPUT 301 - Introduction to Software Engineering**
-  - Developed a full-stack Android app for event organization over four months in a team of six, learning about design/state patterns, UML, testing, and MVC architecture.
 
 - **CMPUT 267 - Basics of Machine Learning**
-  - Introduction to fundamental statistical, mathematical, and computational concepts in data analysis using Julia. Focus on univariate models, data summarization, model estimation, generalization, and performance evaluation.
 
 
 
