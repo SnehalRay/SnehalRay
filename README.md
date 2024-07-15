@@ -3,22 +3,11 @@
 # 💫 About Me:
 I am a 3rd-year Computer Science student at the University of Alberta, pursuing an honors bachelor's degree. With a passion for building robust applications, I am deeply immersed in the dynamic worlds of Machine Learning and Software Development. My journey is fueled by a relentless curiosity and a drive to innovate, aiming to contribute meaningfully to the tech landscape.
 
-## 🚀 My Course Experiences:
-- **CMPUT 174 - Introduction to the Foundations of Computation I**
+## 🚀 My Personal Website:
 
-- **CMPUT 175 - Introduction to the Foundations of Computation II**
+Here is my personal website to checkout
 
-- **CMPUT 201 - Practical Programming Methodology**
-
-- **CMPUT 204 - Algorithms I**
-
-- **CMPUT 291 - Introduction to File and Database Management**
-
-- **CMPUT 301 - Introduction to Software Engineering**
-
-- **CMPUT 267 - Basics of Machine Learning**
-
-
+- [Portfolio](https://snehalray.me)
 
 ## 🎓 About Me
 
