@@ -9,16 +9,6 @@ Here is my personal website to checkout
 
 - [Portfolio](https://snehalray.me)
 
-## 🎓 About Me
-
-Feel free to reach out to me through my socials
-
-- [Instagram](https://www.instagram.com/snehalray10/)
-
-
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-ray-4b2aa9293/)
 
 # 💻 Tech Stack:
 ### Languages:
